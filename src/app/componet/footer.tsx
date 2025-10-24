@@ -41,10 +41,10 @@ export default function Footer() {
 
         <div className="col-lg-3 col-md-12 footer-contact text-center text-md-start">
           <h4>Contact Us</h4>
-          <p>Rua do Camões</p>
-          <p>Maputo, Nr.000</p>
-          <p>Moçambique</p>
-          <p className="mt-4"><strong>Phone:</strong> <span>+258 84 123 4567</span></p>
+          <p>INOSPACE-WADEVILE WORKS</p>
+          <p>UNIT 57</p>
+          <p>GERMISTON, GAUTENG</p>
+          <p className="mt-4"><strong>Phone:</strong> <span>+27 64 674 1847/ +27 72 822 4803</span></p>
           <p><strong>Email:</strong> <span>info@easytransport.co.za</span></p>
         </div>
 

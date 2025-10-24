@@ -14,7 +14,8 @@ export default function ContactSection() {
         <span className="description-title">Contact</span>
         <h2>Get in Touch</h2>
         <p>
-          Reach out to EASY TRANSPORT & LOGÍSTICS for inquiries, shipments, or support.
+          Reach out to EASY TRANSPORT & LOGÍSTICS for inquiries, shipments, or
+          support.
         </p>
       </div>
       {/* End Section Title */}
@@ -26,7 +27,8 @@ export default function ContactSection() {
             <div className="contact-info-header">
               <h3>Contact Information</h3>
               <p>
-                Our team is here to assist you with logistics, shipping, and account questions.
+                Our team is here to assist you with logistics, shipping, and
+                account questions.
               </p>
             </div>
 
@@ -97,8 +99,8 @@ export default function ContactSection() {
           {/* Contact Form Panel */}
           <div className="contact-form-panel">
             <div className="map-container">
-               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3587.9636683669028!2d32.5694182!3d-25.9364177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ee69a91a5b41559%3A0x1f0d251134ece24c!2sR.%20de%20Cam%C3%B5es%2C%20Maputo!5e0!3m2!1spt-PT!2smz!4v1756275182261!5m2!1spt-PT!2smz"
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3577.7766155871614!2d28.167534576333694!3d-26.268912466614264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e951b259e4d229f%3A0x40df771687687991!2sinospace%20-%20Wadeville%20Works!5e0!3m2!1spt-PT!2smz!4v1761304227312!5m2!1spt-PT!2smz"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
@@ -111,7 +113,9 @@ export default function ContactSection() {
             <div className="form-container">
               <h3>Send Us a Message</h3>
               <p>
-                Have questions about our transport services, logistics solutions, or shipments? Drop us a message and we&apos;ll get back to you promptly.
+                Have questions about our transport services, logistics
+                solutions, or shipments? Drop us a message and we&apos;ll get
+                back to you promptly.
               </p>
 
               <form

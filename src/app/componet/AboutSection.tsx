@@ -36,7 +36,7 @@ export default function AboutSection() {
             >
               <div className="about-image-wrapper position-relative">
                 <img
-                  src="assets/img/about/about-8.webp"
+                  src="assets/img/about/about.png"
                   alt="About Easy Transport"
                   className="img-fluid rounded-4"
                 />

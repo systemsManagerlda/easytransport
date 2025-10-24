@@ -55,7 +55,7 @@ export default function HeroSection() {
             >
               <div className="image-wrapper">
                 <img
-                  src="assets/img/misc/misc-square-16.webp"
+                  src="assets/img/misc/hero.png"
                   alt="Creative Design"
                   className="main-image"
                 />
