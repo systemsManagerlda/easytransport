@@ -6,9 +6,9 @@ export default function Footer() {
       <div className="row gy-4">
         <div className="col-lg-5 col-md-12 footer-about">
           <a href="index.html" className="logo d-flex align-items-center">
-            <span className="sitename">Visible</span>
+            {/* <span className="sitename">Visible</span> */}
           </a>
-          <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+          <p>At EASY TRANSPORT & LOGÍSTICS, we provide end-to-end transportation and logistics services designed to optimize your supply chain, reduce costs, and ensure timely delivery of your goods across multiple regions.</p>
           <div className="social-links d-flex mt-4">
             <a href=""><i className="bi bi-twitter-x"></i></a>
             <a href=""><i className="bi bi-facebook"></i></a>
@@ -31,11 +31,10 @@ export default function Footer() {
         <div className="col-lg-2 col-6 footer-links">
           <h4>Our Services</h4>
           <ul>
-            <li><a href="#">Web Design</a></li>
-            <li><a href="#">Web Development</a></li>
-            <li><a href="#">Product Management</a></li>
-            <li><a href="#">Marketing</a></li>
-            <li><a href="#">Graphic Design</a></li>
+            <li><a href="#">Transport & Logistics</a></li>
+            <li><a href="#">Door-to-Door Express</a></li>
+            <li><a href="#">Air & Road Transport</a></li>
+            <li><a href="#">Containerized Transport (FCL)</a></li>
           </ul>
         </div>
 
